@@ -1,0 +1,12 @@
+.heading1{
+  color: purple;
+  text-align: center;
+}
+
+.success {
+  background: green;
+}
+
+.error {
+  background: red;
+}
